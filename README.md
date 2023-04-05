@@ -17,3 +17,5 @@ Here are some of the technologies that I used to develop my projects:
 * Scikit-learn
 * Matplotlib
 * Seaborn
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danie110001001109192912&show_icons=true&theme=cobalt)
